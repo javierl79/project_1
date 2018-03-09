@@ -16,8 +16,11 @@ Class Example 03/03/18
     b. Does individual salary/team payroll correlate to individual/team success?
     
         Possibly look into merging team and player data to see if the player lead the team to a playoffs.
+        Another analysis is to look if the salary of the player actually makes a difference by comparing the top 5 paid players against the bottom five paid players and see how many games were won. The question is is it worth paying such high salaries?
         
     c. Does salary in short stop contribute proportionally to statistical contribution?
+    
+    Idea, divide average salary of the player for their career and divide by homeruns. Compare this value with other players and compare how many times the team made it to the playoffs and world series. Come up with other statistical measures.
     
     d. How has salary increased over time, adjusting for inflation?
     
