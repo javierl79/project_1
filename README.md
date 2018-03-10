@@ -1,6 +1,6 @@
 # project_1
 Class Example 03/03/18
-1. Project Title:  "Evaluation of Salaries vs. Shortstop Statistical Performance in the MLB since 1991"
+1. Project Title:  "Evaluation of Salaries vs. Shortstop Statistical Performance in the MLB since 1985"
 2. Team Members:  Nick Titus, Javier Lopez, Bryan Fawcett, Jordan Tata
 3. Project Description/Outline:  Using datasets from data.world that have collected historical statistical and salary information, 
     we will explore the relationship between pay and performance in Major League Baseball. This analysis will attempt to find 
